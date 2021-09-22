@@ -1,3 +1,40 @@
+header{
+    position: relative;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+     border-bottom: solid 2px white;
+    
+}
+
+ .top-section {
+   background-image: url("/img/header.jpg");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 100%;
+   height: 600px;
+   
+ }
+ 
+ .content {
+   color: white;
+   background-color: rgba(0, 0, 0, 0.7);
+   width: 100%;
+   height: 100%;
+ }
+
+h1{
+   font-family: 'Courgette', cursive;
+   color: white;
+   margin-top: 30px;
+}
+
+img{
+   width: 100px;
+   height: 100px;
+   margin-top: 70px;
+      
+}
+
 .bu {
     width: 180px;
     height: 35px;
@@ -27,4 +64,51 @@ h3 {
     font-weight: 500;
     margin: 20px 0px;
 }
+
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 50px 50px;
+    
+
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.grid-items{
+  padding-bottom: 20px;
+  padding-right: 40px;
+  font-family: 'Oswald';
+  
+}
+
+.pad{
+    padding-top: 25px;
+}
+
+.pa{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 100;
+}
+
+.in{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1.5px solid white;
+    background-color: black;
+    color: white;
+    font-family: 'Oswald';
+}
+
+.form-label{
+    padding-top: 40px;
+
+}
+
 
