@@ -160,9 +160,12 @@ footer{
     margin: 3px;
 }
 @media (max-width: 768px){
-    .rechercher{
+    {
         display: none;
     }
+
+
+
 
 
     
