@@ -22,11 +22,7 @@ header{
    height: 100%;
  }
 
-h1{
-   font-family: 'Courgette', cursive;
-   color: white;
-   margin-top: 30px;
-}
+
 
 img{
    width: 100px;
@@ -94,6 +90,8 @@ footer{
 .pa{
     font-family: 'Oswald', sans-serif;
     font-weight: 100;
+    color: white;
+    line-height: 25px;
 }
 
 .in{
@@ -111,4 +109,9 @@ footer{
 
 }
 
+.fab {
+    color: black;
+    background-color: white;
+    margin: 3px;
+}
 

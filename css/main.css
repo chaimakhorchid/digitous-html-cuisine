@@ -20,3 +20,16 @@ footer {
     justify-content: space-between;
     margin: 20px 0px;
 }
+
+h1{
+    font-family: 'Courgette', cursive;
+    color: white;
+    margin-top: 30px;
+ }
+
+ .etape h6 p {
+    font-weight: 300;
+    font-size: 15px;
+    margin-bottom: 20px;
+    margin-right: 55px;
+}
